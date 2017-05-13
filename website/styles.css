@@ -1,0 +1,27 @@
+br{
+  display: block;
+  line-height: 5px;
+}
+#tweets{
+  text-align: left;
+  padding-left: 5%;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+}
+#tweet_container{
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    width: 75%;
+    margin: auto;
+    align-items: center;
+    background-color: rgba(199, 219, 250, 1);
+    border-radius: 15px;
+}
+#hashtag{
+  font-size: 37.22px;
+  text-align: left;
+  padding-left: 5%;
+  font-family: 'Roboto', sans-serif;
+}
+body{
+  background-color: rgba(214, 250, 243, 1);
+}
